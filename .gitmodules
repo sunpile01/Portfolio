@@ -4,3 +4,9 @@
 [submodule "Unity-TowerDefense-Game"]
 	path = Unity-TowerDefense-Game
 	url = https://github.com/sunpile01/Unity-TowerDefense-Game
+[submodule "Rust-Interpreter"]
+	path = Rust-Interpreter
+	url = https://github.com/sunpile01/Rust-Interpreter
+[submodule "Haskell-GO-Game"]
+	path = Haskell-GO-Game
+	url = https://github.com/sunpile01/Haskell-GO-Game
