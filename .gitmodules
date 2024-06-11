@@ -1,6 +1,3 @@
 [submodule "Bachelor-File-Converter"]
 	path = Bachelor-File-Converter
 	url = https://github.com/larsmhaugland/file-converter
-[submodule "Unity-TowerDefense-Game"]
-	path = Unity-TowerDefense-Game
-	url = https://github.com/sunpile01/Unity-TowerDefense-Game
