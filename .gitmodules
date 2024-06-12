@@ -10,3 +10,9 @@
 [submodule "Haskell-GO-Game"]
 	path = Haskell-GO-Game
 	url = https://github.com/sunpile01/Haskell-GO-Game
+[submodule "Mobile-SpaceGame"]
+	path = Mobile-SpaceGame
+	url = https://github.com/sunpile01/MobileGame-SpaceShip
+[submodule "OpenGLC++SimplifiedChess"]
+	path = OpenGLC++SimplifiedChess
+	url = https://github.com/sunpile01/Graphics-OpenGL-SImplifiedChess
