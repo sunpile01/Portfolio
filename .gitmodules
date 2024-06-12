@@ -16,3 +16,6 @@
 [submodule "OpenGLC++SimplifiedChess"]
 	path = OpenGLC++SimplifiedChess
 	url = https://github.com/sunpile01/Graphics-OpenGL-SImplifiedChess
+[submodule "Fullstack-MealPlanner"]
+	path = Fullstack-MealPlanner
+	url = https://github.com/sunpile01/Meal-Planner-Fullstack
