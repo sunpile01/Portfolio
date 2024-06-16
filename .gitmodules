@@ -19,3 +19,6 @@
 [submodule "Fullstack-MealPlanner"]
 	path = Fullstack-MealPlanner
 	url = https://github.com/sunpile01/Meal-Planner-Fullstack
+[submodule "OpenGL-Simplified-Blockout-Exam"]
+	path = OpenGL-Simplified-Blockout-Exam
+	url = https://github.com/sunpile01/OpenGL-SImplified-BlockOut-Exam
